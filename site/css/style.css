@@ -42,10 +42,9 @@ p{
 
 div>div{
 	background-color: pink;
-	margin: 5%;
+	margin: 10px;
 	border: 1px solid black;
 	padding: 0px;
-	width: 90%
 }
 
 /*Positions*/
