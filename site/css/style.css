@@ -1,24 +1,27 @@
 *{
-	color: brown;
 	box-sizing: border-box;
 }
 
 h1{
 	font-size: 24px;
+	color: brown;
 
 }
 
 h2{
 	font-size: 20px;
+	color: brown;
 
 }
 
 h3{
 	font-size: 18px;
+	color: brown;
 
 }
 
 p{
 	font-size: 16px;
+	color: brown;
 
 }
